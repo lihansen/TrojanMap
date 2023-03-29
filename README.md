@@ -2,8 +2,7 @@
 # Report
 
 Name: Hansen Li  
-USC ID: 6356792829  
-Email: hansenli@usc.edu
+Email: 
 
 
 ## Overview
